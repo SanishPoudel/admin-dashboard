@@ -84,6 +84,7 @@ body{
   box-shadow: 5px 5px 5px rgb(222, 219, 219); 
   border-radius: 5px;
   background-color: white;
+  margin-right: 10px;
 }
 
 .announcements{
@@ -179,6 +180,7 @@ button:active {
 }
 
 .profile{
+  padding: 10px;
   margin-top: 10px;
 }
 
