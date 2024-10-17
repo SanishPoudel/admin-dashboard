@@ -144,3 +144,38 @@ body{
 .trend-icon{
   height: 70px;
 }
+
+.profile{
+  display: flex;
+  gap: 25px;
+}
+
+.profile h2{
+  margin-top: 0;
+}
+
+.button{
+  margin-top: 10px;
+}
+
+button{
+  color: white;
+  background-color: #2885f7;
+  border-radius: 20px;
+  font-size: large;
+  padding: 5px 20px 5px 20px;
+  border: 2px solid #2885f7;
+}
+
+button:hover {
+  background-color: white;
+  color: #2885f7;
+}
+
+button:active {
+  transform: translateY(4px);
+}
+
+.profile{
+  margin-top: 10px;
+}
